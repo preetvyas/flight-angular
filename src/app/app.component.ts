@@ -17,10 +17,10 @@ export class AppComponent {
   registerForm: FormGroup;
   flightData = [{
     "airline": "Airindia 737",
-    "imgURL": "https://www.avasflowers.net/img/prod_img/avasflowers-dreaming-of-tuscany-bouquet.jpg",
+    "imgURL": "https://media.gettyimages.com/photos/commercial-jet-flying-over-clouds-picture-id155380716?s=2048x2048",
     "from": "BLR",
     "to": "DEL",
-    "date": "2019-10-17",
+    "date": "2019-10-18",
     "returnDate": "",
     "origin": "banglore",
     "destination": "delhi",
@@ -30,7 +30,7 @@ export class AppComponent {
     "seats": "5"
   }, {
     "airline": "Airindia 731",
-    "imgURL": "https://www.avasflowers.net/img/prod_img/avasflowers-dreaming-of-tuscany-bouquet.jpg",
+    "imgURL": "https://media.gettyimages.com/photos/commercial-jet-flying-over-clouds-picture-id155380716?s=2048x2048",
     "from": "PUN",
     "to": "AHM",
     "date": "2019-10-17",
@@ -43,11 +43,11 @@ export class AppComponent {
     "seats": "5"
   }, {
     "airline": "Airindia 732",
-    "imgURL": "https://www.avasflowers.net/img/prod_img/avasflowers-dreaming-of-tuscany-bouquet.jpg",
+    "imgURL": "https://media.gettyimages.com/photos/commercial-jet-flying-over-clouds-picture-id155380716?s=2048x2048",
     "from": "PUN",
     "to": "MUM",
     "date": "2019-10-18",
-    "returnDate": "",
+    "returnDate": "2019-10-19",
     "origin": "pune",
     "destination": "mumbai",
     "price": "4000",
